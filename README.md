@@ -1,4 +1,10 @@
 # JavaScript-whileloops-cw
+
+Incomeple
+Please push what you have by 1pm for the morning and 5pm by the afternoon.
+If you have trouble pusing let Autumn, Kenn, or Kevin know.
+Score : 0 points 
+
 Classwork: JavaScript While/Do While Loops
 
 ### Create a new file for each exercise
